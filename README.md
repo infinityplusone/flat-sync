@@ -8,6 +8,6 @@
 ### How to Use
 
 1. Add the Sync bookmarklet to your browser.
-[Add the Bookmarklet](https://www.dropbox.com/s/lslo5ug7unhbomb/Add%20the%20Bookmarklet.gif?dl=0)
+![Add the Bookmarklet](Add%20the%20Bookmarklet.gif)
 
-2. Watch this video: [Flat Sync Score](https://www.dropbox.com/s/v2z7bvjj6lxvw6s/Flat%20-%20Sync%20Score.mov?dl=0)
+2. Watch this video: <video controls="controls" width="800" height="600" name="Flat Sync Score" src="Flat%20-%20Sync%20Score.mov"></video>
