@@ -7,7 +7,4 @@
 
 ### How to Use
 
-1. Add the Sync bookmarklet to your browser.
-![Add the Bookmarklet](Add%20the%20Bookmarklet.gif)
-
-2. Watch this video: <video controls="controls" width="800" height="600" name="Flat Sync Score" src="Flat%20-%20Sync%20Score.mov"></video>
+Just go here: https://infinityplusone.github.io/flat-sync/
