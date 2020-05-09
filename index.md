@@ -6,6 +6,7 @@
 
 ### How to Use
 1. Add the <a href="https://github.com/infinityplusone/flat-sync/blob/master/sync-bookmarklet.js" target="_blank">Sync Bookmarklet</a> to your browser.
+
 ![Add the Bookmarklet](Add%20the%20Bookmarklet.gif)
 
 2. Open <a href="https://flat.io" target="_blank">your score</a> in a browser tab.
@@ -15,5 +16,5 @@
 3.  Open the <a href="https://flat.io/developers/docs/api/console.html" target="_blank">Flat API Console</a> in a browser tab.
 
 4. Watch this video, and do what it does.
-<video controls="controls" width="800" name="Flat Sync Score" src="Flat%20-%20Sync%20Score.mov"></video>
+<video controls="controls" muted="true" name="Flat Sync Score" src="Flat%20-%20Sync%20Score.mov"></video>
 
